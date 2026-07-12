@@ -27,8 +27,8 @@ An e-commerce marketplace wants to better understand its customer experience and
 Throughout this portfolio, I investigate business questions related to delivery performance, customer satisfaction, and seller performance while demonstrating an end-to-end analytics workflow.
 
 ## Repository Structure
-
-`product-analytics-portfolio/
+```text
+product-analytics-portfolio/
 │
 ├── notebooks/
 │   ├── 01_data_audit.ipynb
@@ -40,7 +40,8 @@ Throughout this portfolio, I investigate business questions related to delivery 
 │
 ├── requirements.txt
 │
-└── README.md`
+└── README.md
+```
 
 (Additional notebooks will be added as the portfolio grows.)
 

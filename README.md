@@ -47,10 +47,10 @@ product-analytics-portfolio/
 
 ## Current Progress
 
-✅ Notebook 01 – Data Audit (Published)
-🚧 Notebook 02 – Coming Soon
-🚧 Notebook 03 – Coming Soon
-🚧 Notebook 04 – Coming Soon
+- ✅ Notebook 01 – Data Audit (Published)
+- 🚧 Notebook 02 – Coming Soon
+- 🚧 Notebook 03 – Coming Soon
+- 🚧 Notebook 04 – Coming Soon
 
 ## Skills Demonstrated
 

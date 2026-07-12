@@ -32,9 +32,6 @@ product-analytics-portfolio/
 │
 ├── notebooks/
 │   ├── 01_data_audit.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_operational_performance.ipynb
-│   └── 04_customer_experience_analysis.ipynb
 │
 ├── visuals/
 │

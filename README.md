@@ -45,9 +45,10 @@ product-analytics-portfolio/
 ## Current Progress
 
 - ✅ Notebook 01 – Data Audit (Published)
-- 🚧 Notebook 02 – Coming Soon
-- 🚧 Notebook 03 – Coming Soon
-- 🚧 Notebook 04 – Coming Soon
+- ✅ Notebook 02 – Data Cleaning (Published)
+- 🚧 Notebook 03 – Operational Performance
+- 🚧 Notebook 04 – Customer Experience Analysis
+- 🚧 Notebook 05 – Product Category Proritization (In Progress)
 
 ## Skills Demonstrated
 

@@ -47,7 +47,7 @@ product-analytics-portfolio/
 - ✅ Notebook 01 – Data Audit (Published)
 - ✅ Notebook 02 – Data Cleaning (Published)
 - ✅ Notebook 03 – Operational Performance (Published)
-- ✅ Notebook 04 – Customer Experience Analysis (Published)
+- ✅ Notebook 04 – Seller Performance (Published)
 - 🚧 Notebook 05 – Product Category Proritization
 
 ## Skills Demonstrated
